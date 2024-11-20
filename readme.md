@@ -1,6 +1,4 @@
 # Project 2
-### Raj Vora - 35551411
-### Rushil Patel - 66999320
 
 ## Problem Definition
 
@@ -37,3 +35,7 @@ If we have n nodes, the time taken for the protocol to complete should be n/10 m
 ![Gossip Graph](Screenshot%20from%202022-10-11%2015-50-54.png)
 
 ![Push-Sum Graph](Screenshot%20from%202022-10-11%2015-51-07.png)
+
+## Contributors
+- [@raj-vora](https://github.com/raj-vora)
+- [@rushilp1](https://github.com/rushilp1)
